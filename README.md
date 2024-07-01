@@ -37,7 +37,7 @@ This project is a web-based library management system that provides functionalit
 
 ### Clone the repository:
 ```sh
-git clone https://github.com/your-repo/library-management-system.git
+git clone https://github.com/jingchaheiye/librarymanagesystem.git
 
 Backend Setup
 
@@ -126,7 +126,7 @@ npm run dev
 
 ### 克隆仓库：
 ```sh
-git clone https://github.com/your-repo/library-management-system.git
+git clone https://github.com/jingchaheiye/librarymanagesystem.git
 
 后端安装
 
